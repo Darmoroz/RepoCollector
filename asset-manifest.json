@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RepoCollector/static/css/main.2e1a702e.css",
+    "main.js": "/RepoCollector/static/js/main.04c20694.js",
+    "index.html": "/RepoCollector/index.html",
+    "main.2e1a702e.css.map": "/RepoCollector/static/css/main.2e1a702e.css.map",
+    "main.04c20694.js.map": "/RepoCollector/static/js/main.04c20694.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e1a702e.css",
+    "static/js/main.04c20694.js"
+  ]
+}
