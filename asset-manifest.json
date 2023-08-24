@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/RepoCollector/static/css/main.2e1a702e.css",
-    "main.js": "/RepoCollector/static/js/main.04c20694.js",
+    "main.css": "/RepoCollector/static/css/main.c21fb1c2.css",
+    "main.js": "/RepoCollector/static/js/main.06c6428d.js",
+    "static/js/700.9a64421f.chunk.js": "/RepoCollector/static/js/700.9a64421f.chunk.js",
+    "static/js/302.8838aae3.chunk.js": "/RepoCollector/static/js/302.8838aae3.chunk.js",
     "index.html": "/RepoCollector/index.html",
-    "main.2e1a702e.css.map": "/RepoCollector/static/css/main.2e1a702e.css.map",
-    "main.04c20694.js.map": "/RepoCollector/static/js/main.04c20694.js.map"
+    "main.c21fb1c2.css.map": "/RepoCollector/static/css/main.c21fb1c2.css.map",
+    "main.06c6428d.js.map": "/RepoCollector/static/js/main.06c6428d.js.map",
+    "700.9a64421f.chunk.js.map": "/RepoCollector/static/js/700.9a64421f.chunk.js.map",
+    "302.8838aae3.chunk.js.map": "/RepoCollector/static/js/302.8838aae3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e1a702e.css",
-    "static/js/main.04c20694.js"
+    "static/css/main.c21fb1c2.css",
+    "static/js/main.06c6428d.js"
   ]
 }
