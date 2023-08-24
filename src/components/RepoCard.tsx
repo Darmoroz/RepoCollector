@@ -23,7 +23,7 @@ function RepoCard({ repo }: { repo: IRepo }) {
 
   return (
     <div className="border py-3 px-5 rounded mb-2 hover:shadow-md hover:bg-gray-100 transition-all">
-      <a href={repo.html_url} target="_blank">
+      <a href={repo.html_url} target="_blank" rel="noreferrer">
         <h2 className="text-lg font-bold">{repo.full_name}</h2>
         <p className="text">
           Size: <span className="font-bols mr-2">{repo.size}kb</span>

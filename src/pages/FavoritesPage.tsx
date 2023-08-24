@@ -8,7 +8,7 @@ function FavoritesPage() {
       <ul className="list-none">
         {favorites.map(repoUrl => (
           <li key={repoUrl}>
-            <a href={repoUrl} target="_blank">
+            <a href={repoUrl} target="_blank" rel="noreferrer">
               {repoUrl}
             </a>
           </li>
